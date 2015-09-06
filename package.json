@@ -34,8 +34,8 @@
     "object-assign": "^2.0.0"
   },
   "peerDependencies": {
-    "babel-eslint": "3.x",
-    "eslint-plugin-react": "2.x",
+    "babel-eslint": "4.x",
+    "eslint-plugin-react": "3.x",
     "eslint": "0.x"
   },
   "dependencies": {
